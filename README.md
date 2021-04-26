@@ -1,2 +1,2 @@
 # ProCode-SoftwaresFirstNPMProject
-My first NPM project! ✨
+My *first* NPM project! ✨
